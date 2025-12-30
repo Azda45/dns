@@ -1,0 +1,22 @@
+# === META / FACEBOOK / INSTAGRAM (ALL CDN) ===
+||facebook.com^
+||fb.com^
+||fb.me^
+||meta.com^
+
+||instagram.com^
+||cdninstagram.com^
+
+||fbcdn.net^
+||fbsbx.com^
+
+||edge-mqtt.facebook.com^
+
+# === WHATSAPP ===
+||whatsapp.com^
+||whatsapp.net^
+
+# === LOGIN / API ===
+||connect.facebook.net^
+||graph.facebook.com^
+||graph.instagram.com^
