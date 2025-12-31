@@ -1,5 +1,5 @@
 ################################
-# ===== META (FB / IG / WA)
+# META (FB / IG / WA / THREADS)
 ################################
 ||facebook.com^
 ||fb.com^
@@ -16,9 +16,10 @@
 ||whatsapp.com^
 ||whatsapp.net^
 ||web.whatsapp.com^
+||threads.net^
 
 ################################
-# ===== TIKTOK / BYTEDANCE
+# TIKTOK / BYTEDANCE
 ################################
 ||tiktok.com^
 ||tiktokv.com^
@@ -30,10 +31,9 @@
 ||ibytedtos.com^
 ||muscdn.com^
 ||api.tiktokv.com^
-||log.tiktokv.com^
 
 ################################
-# ===== TWITTER / X
+# TWITTER / X
 ################################
 ||twitter.com^
 ||x.com^
@@ -48,7 +48,17 @@
 ||twitterspaces.com^
 
 ################################
-# ===== YOUTUBE (INFRA ONLY)
+# GOOGLE CORE (NO ADS)
+################################
+||android.googleapis.com^
+||android.clients.google.com^
+||play.googleapis.com^
+||clients4.google.com^
+||gvt1.com^
+||gvt2.com^
+
+################################
+# YOUTUBE / YT MUSIC (INFRA ONLY)
 ################################
 ||youtube.com^
 ||youtubei.googleapis.com^
@@ -57,7 +67,40 @@
 ||ggpht.com^
 
 ################################
-# ===== E-COMMERCE
+# CHAT / COMMUNITY
+################################
+||telegram.org^
+||telegram-cdn.org^
+||t.me^
+||discord.com^
+||discord.gg^
+||discordapp.com^
+||discordapp.net^
+||discordcdn.com^
+||reddit.com^
+||redditstatic.com^
+||redd.it^
+||redditmedia.com^
+
+################################
+# STREAMING & MEDIA
+################################
+||spotify.com^
+||scdn.co^
+||spotifycdn.com^
+||netflix.com^
+||nflxvideo.net^
+||nflximg.net^
+||nflximg.com^
+||nflxso.net^
+||twitch.tv^
+||ttvnw.net^
+||primevideo.com^
+||amazonvideo.com^
+||wetv.vip^
+
+################################
+# E-COMMERCE
 ################################
 ||shopee.co.id^
 ||shopee.com^
@@ -65,6 +108,7 @@
 ||shopeemobile.com^
 ||shopee.sg^
 ||shp.ee^
+||shopeepay.co.id^
 ||tokopedia.com^
 ||tokopedia.net^
 ||tokocdn.net^
@@ -77,7 +121,7 @@
 ||blibli.net^
 
 ################################
-# ===== TRANSPORT / APP LOKAL
+# TRANSPORT / TRAVEL
 ################################
 ||gojek.com^
 ||gojekapi.com^
@@ -89,83 +133,124 @@
 ||traveloka.net^
 
 ################################
-# ===== FINTECH / WALLET
+# FINTECH / WALLET
 ################################
-||ovo.id^
 ||dana.id^
+||ovo.id^
 ||linkaja.id^
 ||gopay.co.id^
+||shopeepay.co.id^
+||kredivo.com^
+||akulaku.com^
 
 ################################
-# ===== PAYMENT GATEWAY
+# PAYMENT GATEWAY NASIONAL
 ################################
 ||midtrans.com^
 ||xendit.co^
 ||doku.com^
 ||ipay88.co.id^
+||faspay.co.id^
+||nicepay.co.id^
+||finpay.co.id^
+||veritrans.co.id^
 
 ################################
-# ===== BANK / QR
+# REGULATOR & PAYMENT RAILS
+################################
+||bi.go.id^
+||gpn.co.id^
+||qris.id^
+||bi-fast.co.id^
+
+################################
+# BANK INDONESIA (BESAR + DIGITAL + REGIONAL)
 ################################
 ||bca.co.id^
+||klikbca.com^
+||mybca.bca.co.id^
 ||bri.co.id^
+||brimo.bri.co.id^
 ||mandiri.co.id^
+||bankmandiri.co.id^
 ||bni.co.id^
-||gpn.co.id^
-||bi.go.id^
+||btn.co.id^
+||cimbniaga.co.id^
+||danamon.co.id^
+||permatabank.com^
+||panin.co.id^
+||ocbc.id^
+||uob.co.id^
+||maybank.co.id^
+||hsbc.co.id^
+||citibank.co.id^
+||bsi.co.id^
+||muamalatbank.com^
+||bankjago.com^
+||jenius.com^
+||neobank.co.id^
+||seabank.co.id^
+||superbank.id^
+||blu.id^
+||linebank.co.id^
+||allobank.com^
+||bankdki.co.id^
+||bankjatim.co.id^
+||bankjateng.co.id^
+||banksumut.co.id^
+||bankbjb.co.id^
 
 ################################
-# ===== CHAT / COMMUNITY
+# GAME
 ################################
-||reddit.com^
-||redditstatic.com^
-||redd.it^
-||redditmedia.com^
-||discord.com^
-||discord.gg^
-||discordapp.com^
-||discordapp.net^
-||discordcdn.com^
-||telegram.org^
-||t.me^
-||telegram.me^
-||telegram-cdn.org^
+||supercell.com^
+||supercellgames.com^
+||roblox.com^
+||rbxcdn.com^
+||nianticlabs.com^
+||pokemon.com^
+||steampowered.com^
+||steamcontent.com^
 
 ################################
-# ===== STREAMING
+# MAP / LOCATION
 ################################
-||spotify.com^
-||scdn.co^
-||spotifycdn.com^
-||netflix.com^
-||nflxvideo.net^
-||nflximg.net^
-||nflximg.com^
-||nflxso.net^
+||maps.googleapis.com^
+||mapbox.com^
+||mapboxcdn.com^
 
 ################################
-# ===== CDN GLOBAL (NO ADS)
-################################
-||akamaihd.net^
-||akamaized.net^
-||cloudfront.net^
-||fastly.net^
-||fastlylb.net^
-||stackpathdns.com^
-||imgix.net^
-||cloudinary.com^
-
-################################
-# ===== CLOUD / BACKEND
+# CLOUD / FILE / DEV
 ################################
 ||amazonaws.com^
 ||digitaloceanspaces.com^
 ||aliyuncs.com^
 ||alicdn.com^
 ||alibabacdn.com^
+||github.com^
+||githubusercontent.com^
+||canva.com^
+||onedrive.live.com^
 
 ################################
-# ===== DNS / INFRA
+# CDN GLOBAL (NO ADS)
+################################
+||akamaihd.net^
+||akamaized.net^
+||edgesuite.net^
+||edgekey.net^
+||cloudfront.net^
+||fastly.net^
+||fastlylb.net^
+||cdn77.org^
+||imgix.net^
+||cloudinary.com^
+
+################################
+# DNS / INFRA / IPV6
 ################################
 ||cloudflare.com^
 ||cloudflare-dns.com^
+||one.one.one.one^
+||ip6.arpa^
+||in-addr.arpa^
