@@ -1,22 +1,18 @@
 ################################
-# ===== META GROUP (FB / IG / WA)
+# ===== META (FB / IG / WA)
 ################################
 ||facebook.com^
 ||fb.com^
 ||fb.me^
 ||meta.com^
-
 ||instagram.com^
 ||cdninstagram.com^
-
 ||fbcdn.net^
 ||fbsbx.com^
-
 ||edge-mqtt.facebook.com^
 ||connect.facebook.net^
 ||graph.facebook.com^
 ||graph.instagram.com^
-
 ||whatsapp.com^
 ||whatsapp.net^
 ||web.whatsapp.com^
@@ -27,58 +23,68 @@
 ||tiktok.com^
 ||tiktokv.com^
 ||tiktokcdn.com^
-
 ||bytedance.com^
 ||bytedance.net^
 ||bytecdn.com^
 ||byteimg.com^
-
 ||ibytedtos.com^
 ||muscdn.com^
 ||api.tiktokv.com^
 ||log.tiktokv.com^
 
 ################################
-# ===== E-COMMERCE INDONESIA
+# ===== TWITTER / X
 ################################
-# Shopee
+||twitter.com^
+||x.com^
+||api.twitter.com^
+||api.x.com^
+||twimg.com^
+||pbs.twimg.com^
+||video.twimg.com^
+||abs.twimg.com^
+||t.co^
+||oauth.twitter.com^
+||twitterspaces.com^
+
+################################
+# ===== YOUTUBE (INFRA ONLY)
+################################
+||youtube.com^
+||youtubei.googleapis.com^
+||googlevideo.com^
+||ytimg.com^
+||ggpht.com^
+
+################################
+# ===== E-COMMERCE
+################################
 ||shopee.co.id^
 ||shopee.com^
 ||shopee.io^
 ||shopeemobile.com^
 ||shopee.sg^
 ||shp.ee^
-
-# Tokopedia
 ||tokopedia.com^
 ||tokopedia.net^
 ||tokocdn.net^
-
-# Lazada
 ||lazada.co.id^
 ||lazada.com^
 ||lzd.co^
 ||lzdcdn.com^
-
-# Bukalapak / Blibli
 ||bukalapak.com^
 ||blibli.com^
 ||blibli.net^
 
 ################################
-# ===== APP LOKAL / TRANSPORT
+# ===== TRANSPORT / APP LOKAL
 ################################
-# Gojek / GoTo
 ||gojek.com^
 ||gojekapi.com^
 ||gojekcdn.com^
 ||goto.com^
-
-# Grab
 ||grab.com^
 ||grabcdn.com^
-
-# Travel
 ||traveloka.com^
 ||traveloka.net^
 
@@ -99,15 +105,43 @@
 ||ipay88.co.id^
 
 ################################
-# ===== BANK / QR / SWITCH
+# ===== BANK / QR
 ################################
 ||bca.co.id^
 ||bri.co.id^
 ||mandiri.co.id^
 ||bni.co.id^
-
 ||gpn.co.id^
 ||bi.go.id^
+
+################################
+# ===== CHAT / COMMUNITY
+################################
+||reddit.com^
+||redditstatic.com^
+||redd.it^
+||redditmedia.com^
+||discord.com^
+||discord.gg^
+||discordapp.com^
+||discordapp.net^
+||discordcdn.com^
+||telegram.org^
+||t.me^
+||telegram.me^
+||telegram-cdn.org^
+
+################################
+# ===== STREAMING
+################################
+||spotify.com^
+||scdn.co^
+||spotifycdn.com^
+||netflix.com^
+||nflxvideo.net^
+||nflximg.net^
+||nflximg.com^
+||nflxso.net^
 
 ################################
 # ===== CDN GLOBAL (NO ADS)
@@ -118,15 +152,11 @@
 ||fastly.net^
 ||fastlylb.net^
 ||stackpathdns.com^
-
-################################
-# ===== IMAGE / VIDEO CDN
-################################
 ||imgix.net^
 ||cloudinary.com^
 
 ################################
-# ===== CLOUD / BACKEND UMUM
+# ===== CLOUD / BACKEND
 ################################
 ||amazonaws.com^
 ||digitaloceanspaces.com^
@@ -135,7 +165,7 @@
 ||alibabacdn.com^
 
 ################################
-# ===== DNS / INFRA (SAFE)
+# ===== DNS / INFRA
 ################################
 ||cloudflare.com^
 ||cloudflare-dns.com^
