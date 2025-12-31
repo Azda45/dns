@@ -20,3 +20,21 @@
 ||connect.facebook.net^
 ||graph.facebook.com^
 ||graph.instagram.com^
+# === TIKTOK CORE ===
+||tiktok.com^
+||tiktokv.com^
+||tiktokcdn.com^
+
+# === VIDEO & MEDIA CDN ===
+||bytecdn.com^
+||byteimg.com^
+||bytedance.com^
+||bytedance.net^
+
+# === API & REALTIME ===
+||api.tiktokv.com^
+||log.tiktokv.com^
+
+# === LIVE / STREAMING ===
+||muscdn.com^
+||ibytedtos.com^
