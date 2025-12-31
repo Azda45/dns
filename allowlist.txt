@@ -1,0 +1,141 @@
+################################
+# ===== META GROUP (FB / IG / WA)
+################################
+||facebook.com^
+||fb.com^
+||fb.me^
+||meta.com^
+
+||instagram.com^
+||cdninstagram.com^
+
+||fbcdn.net^
+||fbsbx.com^
+
+||edge-mqtt.facebook.com^
+||connect.facebook.net^
+||graph.facebook.com^
+||graph.instagram.com^
+
+||whatsapp.com^
+||whatsapp.net^
+||web.whatsapp.com^
+
+################################
+# ===== TIKTOK / BYTEDANCE
+################################
+||tiktok.com^
+||tiktokv.com^
+||tiktokcdn.com^
+
+||bytedance.com^
+||bytedance.net^
+||bytecdn.com^
+||byteimg.com^
+
+||ibytedtos.com^
+||muscdn.com^
+||api.tiktokv.com^
+||log.tiktokv.com^
+
+################################
+# ===== E-COMMERCE INDONESIA
+################################
+# Shopee
+||shopee.co.id^
+||shopee.com^
+||shopee.io^
+||shopeemobile.com^
+||shopee.sg^
+||shp.ee^
+
+# Tokopedia
+||tokopedia.com^
+||tokopedia.net^
+||tokocdn.net^
+
+# Lazada
+||lazada.co.id^
+||lazada.com^
+||lzd.co^
+||lzdcdn.com^
+
+# Bukalapak / Blibli
+||bukalapak.com^
+||blibli.com^
+||blibli.net^
+
+################################
+# ===== APP LOKAL / TRANSPORT
+################################
+# Gojek / GoTo
+||gojek.com^
+||gojekapi.com^
+||gojekcdn.com^
+||goto.com^
+
+# Grab
+||grab.com^
+||grabcdn.com^
+
+# Travel
+||traveloka.com^
+||traveloka.net^
+
+################################
+# ===== FINTECH / WALLET
+################################
+||ovo.id^
+||dana.id^
+||linkaja.id^
+||gopay.co.id^
+
+################################
+# ===== PAYMENT GATEWAY
+################################
+||midtrans.com^
+||xendit.co^
+||doku.com^
+||ipay88.co.id^
+
+################################
+# ===== BANK / QR / SWITCH
+################################
+||bca.co.id^
+||bri.co.id^
+||mandiri.co.id^
+||bni.co.id^
+
+||gpn.co.id^
+||bi.go.id^
+
+################################
+# ===== CDN GLOBAL (NO ADS)
+################################
+||akamaihd.net^
+||akamaized.net^
+||cloudfront.net^
+||fastly.net^
+||fastlylb.net^
+||stackpathdns.com^
+
+################################
+# ===== IMAGE / VIDEO CDN
+################################
+||imgix.net^
+||cloudinary.com^
+
+################################
+# ===== CLOUD / BACKEND UMUM
+################################
+||amazonaws.com^
+||digitaloceanspaces.com^
+||aliyuncs.com^
+||alicdn.com^
+||alibabacdn.com^
+
+################################
+# ===== DNS / INFRA (SAFE)
+################################
+||cloudflare.com^
+||cloudflare-dns.com^
